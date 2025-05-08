@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 47dbc4cc5366da24cad642b5bd2bb1cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorChild: {instanceID: 0}
+  - audioChild: {instanceID: 0}
+  - openSound: {instanceID: 0}
+  - closeSound: {instanceID: 0}
+  - lockedSound: {instanceID: 0}
+  - requiredKey: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
