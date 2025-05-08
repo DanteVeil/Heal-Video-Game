@@ -2,7 +2,7 @@
 
 Heal is a survival horror game project I started at University with aims to prove that games just like any other medium can evoke emotions in people.
 
-- Heal currently features:
+As of version 1.0 Heal features:
 - 3 Fully modeled maps.
 - Fully functional GUI menus.
 - FSM AI Characters.
