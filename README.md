@@ -34,7 +34,7 @@ Here are some snapshots of the game's systems and aesthetics in action.
 
 | Main Menu & UI                                       | In-Game Atmosphere with Flashlight                 |
 | ---------------------------------------------------- | -------------------------------------------------- |
-| ![Main Menu UI](https://github.com/DanteVeil/Heal-Video-Game/blob/main/MainMenu.PNG?raw=true) | ![In-Game Flashlight](./Media/Flashlight.gif) |
+| ![Main Menu UI](./Media/Main%20menu.gif) | ![In-Game Flashlight](./Media/Flashlight.gif) |
 
 | Inventory System                                     | Enemy Encounter                                    |
 | ---------------------------------------------------- | -------------------------------------------------- |
