@@ -11,7 +11,6 @@
 
 The core aim was to create an unsettling experience through a combination of retro aesthetics, strategic gameplay, and environmental storytelling, demonstrating that technical implementation can be used to evoke powerful emotional responses.
 
-_This project was submitted as a final year BSc (Hons) Computer Science project at Royal Holloway, University of London._
 
 ---
 
@@ -42,7 +41,7 @@ Here are some snapshots of the game's systems and aesthetics in action.
 
 | Inventory System                                     |
 | ---------------------------------------------------- |
-| ![Inventory System](./Media/Inventory.gif) |
+| ![Fog Environment](./Media/Inventory.gif) |
 
 ---
 
@@ -75,7 +74,7 @@ This experience in building, debugging, and documenting a complete software prod
 
 ## Play right now!
 
-Play for free at: https://danteveil.github.io/Heal-Video-Game/
+**Play for free** at: https://danteveil.github.io/Heal-Video-Game/
 
 
 ---
