@@ -1,24 +1,3 @@
-# First person survival horror game project
-
-Heal is a survival horror game project I started at University with aims to prove that games just like any other medium can evoke emotions in people.
-
-As of version 1.0 Heal features:
-- Fully player controller first person camera movement and player movement.
-- 3 Fully modeled maps.
-- Fully functional GUI menus.
-- FSM AI Characters.
-- Player usable items.
-
-
-
-How to compile the game:
-
-Download/Install RetroTVFX.zip package
-Download Unity 2022.3.50f LFS version - the game will only work in Unity with that version
-Download the Heal folder from git repository
-
-In Unity go to-> Window->Package Manager-> Install Local Package-> import RetroTVFX/package.json
-In Unity select Project->Build, compile and build the game
 
 # HEAL: A PSX-Inspired Survival Horror Game
 
@@ -90,6 +69,13 @@ This experience in building, debugging, and documenting a complete software prod
 
 ---
 
+## Play right now!
+
+Play for free at: https://danteveil.github.io/Heal-Video-Game/
+
+
+---
+
 ## Setup & Installation
 
 To run this project, you will need Unity Hub and Unity Editor Version 2022.3.6f1.
@@ -106,7 +92,6 @@ To run this project, you will need Unity Hub and Unity Editor Version 2022.3.6f1
     * Once the project is open in the Unity Editor, locate the `MainMenu` scene in the `Assets/Scenes` folder.
     * Open the `MainMenu` scene and press the Play button at the top of the editor.
 
-_For more detailed information, please see the full [Final Year Project Report](Project-Final-Report.pdf) included in this repository._
 
 
 
