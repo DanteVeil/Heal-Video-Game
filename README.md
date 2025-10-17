@@ -38,7 +38,11 @@ Here are some snapshots of the game's systems and aesthetics in action.
 
 | Inventory System                                     | Enemy Encounter                                    |
 | ---------------------------------------------------- | -------------------------------------------------- |
-| ![Inventory System](https://github.com/DanteVeil/Heal-Video-Game/blob/main/Inventory.PNG?raw=true) | ![Enemy AI](./Media/Enemies.png) |
+| ![Inventory System](./Media/Environment.png) | ![Enemy AI](./Media/AI.gif) |
+
+| Inventory System                                     |
+| ---------------------------------------------------- |
+| ![Inventory System](./Media/Inventory.gif) |
 
 ---
 
@@ -88,9 +92,7 @@ To run this project, you will need Unity Hub and Unity Editor Version 2022.3.6f1
     * Open Unity Hub.
     * Click "Open" -> "Add project from disk".
     * Navigate to the cloned `Heal-Video-Game` folder and select it.
-3.  **Run the Game:**
-    * Once the project is open in the Unity Editor, locate the `MainMenu` scene in the `Assets/Scenes` folder.
-    * Open the `MainMenu` scene and press the Play button at the top of the editor.
+
 
 
 
